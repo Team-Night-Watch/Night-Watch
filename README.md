@@ -19,6 +19,8 @@ Currently, there is a critical need for a reliable and effective alert system th
 ## Arriving at Solution
 
 To address this problem, the team decided to focus on non-invasive techniques to measure glucose levels. Existing invasive methods had limitations and were not meeting user expectations. The team hypothesized that by using non-invasive methods, they could provide a satisfactory solution. They explored various non-invasive blood sugar measurement technologies, including Near-infrared Spectroscopy (NIRS), Optical Coherence Tomography (OCT), Electromagnetic Spectroscopy (EMS), Microwave Spectroscopy, and Breath Analysis.
+![Spectrum](https://github.com/RavinduMPK/Night-Watch/assets/68577937/dbbceb11-7c0f-434e-83a3-58f27e4e2a27)
+
 
 ## Proof of Concept
 
@@ -33,6 +35,8 @@ The team chose Near-infrared Spectroscopy (NIRS) technology to measure glucose l
 - LED Indicators
 
 The IR emitting unit provides a broadband source of infrared light that is passed through the skin, and the absorption spectrum is used to calculate blood glucose levels. The IR receiving unit, temperature, and humidity sensor correct for errors caused by environmental factors. The haptic actuator and buzzer warn users of glucose level deviations, while LED indicators indicate different device conditions.
+![Functional block diagram](https://github.com/RavinduMPK/Night-Watch/assets/68577937/a2d5b7c3-b8ae-4607-bc54-a7154ccc1f4e)
+
 
 ## Proposed Design Concept
 
@@ -58,6 +62,7 @@ The project aligns with several Sustainable Development Goals (SDGs):
 - SDG 11: Sustainable Cities and Communities
 - SDG 12: Responsible Consumption and Production
 - SDG 17: Partnerships for the Goals
+![SDGs](https://github.com/RavinduMPK/Night-Watch/assets/68577937/fa62a58e-c9df-4f7f-9905-066fc9345ca0)
 
 The device contributes to reducing premature mortality from non-communicable diseases and promotes mental health and well-being. It represents innovation in healthcare technology and enhances the quality of life for individuals with diabetes.
 
